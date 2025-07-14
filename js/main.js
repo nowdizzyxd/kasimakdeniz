@@ -152,9 +152,8 @@ function initParticles() {
 function initTyped() {
     new Typed('#typed', {
         strings: [
-            'Frontend Developer',
-            'API Designer',
-            'Chrome Extension Developer',
+            'FullStack Developer',
+            'Graphics Designer',
             'Web Developer'
         ],
         typeSpeed: 70,
